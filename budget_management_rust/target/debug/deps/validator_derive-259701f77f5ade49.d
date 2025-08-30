@@ -1,0 +1,9 @@
+/Users/saidbello/Documents/shadow-workspace/tasks/Kgbf5h7LqBiN/budget_management_rust/target/debug/deps/validator_derive-259701f77f5ade49.d: /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/lib.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/asserts.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/lit.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/quoting.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/validation.rs
+
+/Users/saidbello/Documents/shadow-workspace/tasks/Kgbf5h7LqBiN/budget_management_rust/target/debug/deps/libvalidator_derive-259701f77f5ade49.dylib: /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/lib.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/asserts.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/lit.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/quoting.rs /Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/validation.rs
+
+/Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/lib.rs:
+/Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/asserts.rs:
+/Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/lit.rs:
+/Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/quoting.rs:
+/Users/saidbello/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/validator_derive-0.16.0/src/validation.rs:
